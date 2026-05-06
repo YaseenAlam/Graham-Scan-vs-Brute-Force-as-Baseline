@@ -62,9 +62,3 @@ NUM_TRIALS = 3                                     # how many times to run each
 BF_TIMEOUT = 120                                   # seconds before giving up on brute force
 ```
 
-## team
-
-- [name] - [what they did]
-- [name] - [what they did]
-- [name] - [what they did]
-- [name] - [what they did]
